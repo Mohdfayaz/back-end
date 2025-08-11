@@ -1,0 +1,20 @@
+{
+  "name": "backform",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Mohdfayaz/back-end#readme",
+  "bugs": {
+    "url": "https://github.com/Mohdfayaz/back-end/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mohdfayaz/back-end.git"
+  },
+  "license": "ISC",
+  "author": "Mohammed Fayaz",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
